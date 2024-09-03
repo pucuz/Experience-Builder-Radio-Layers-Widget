@@ -1,0 +1,24 @@
+{
+  "name": "radio-layers",
+  "label": "Radio Layers",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.15.0",
+  "author": "Dave Highness",
+  "description": "Switching layers within a web map.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasConfig": true,
+    "hasConfigInSettingPage": true,
+    "hasSettingPage": true
+  },
+  "dependency": ["jimu-arcgis"],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 160,
+    "height": 80
+  }
+}
