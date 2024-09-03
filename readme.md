@@ -1,4 +1,4 @@
-# This is the first Experience Builder widget build by Dave
+# This is the first Experience Builder widget that I build
 
 The widget is a based loosly on several samples from Esri and one from an individual. The widget utilizes the latest Experience Builder methods for creating a widget including functional React.
 
