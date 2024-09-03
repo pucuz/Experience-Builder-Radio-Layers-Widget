@@ -17,8 +17,13 @@ export function getStyle (theme: IMThemeVariables): SerializedStyles {
           padding-bottom: 10px;
           padding-left: 0.25rem;
           padding-right: 0.25rem;
+          top: 0;
           display: flex;
           justify-content: space-between;
+          position: sticky;
+          position: -webkit-sticky;
+          background-color: ${bg};
+          border-bottom: 1px solid gray;
 
           .header-title {
             font-weight:bold;
