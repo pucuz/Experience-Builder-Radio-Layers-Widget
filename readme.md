@@ -10,7 +10,7 @@ https://github.com/kamil-novak/toggleLayers
 
 Create a web map in AGOL or Enterprise that contains a mix of Map Image Layer, Feature Layer or Image Layer map services and save it publicly.
 
-Make sure that this widget folder is copied into the /your-extensions/widgets folder in Experience Builder Developer Edition 1.15.
+Create a folder /your-extensions/widgets/radio-layers in Experience Builder Developer Edition 1.15 and copy the contents of the repository into it.
 
 Follow the Experience Builder Developer Edition instructions for starting and logging into the Developer Edition.
 https://developers.arcgis.com/experience-builder/guide/install-guide/
